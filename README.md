@@ -1,7 +1,7 @@
 # Hi there, I'm **Abhinandan** 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7FF&background=00000000&center=true&vCenter=true&width=600&lines=M.Tech+Student+at+IIT+Bombay;Systems+%26+ML+Enthusiast;GATE+2024+AIR+141;Generative+Retrieval+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7FF&background=00000000&center=true&vCenter=true&width=600&lines=M.Tech+Student+at+IIT+Bombay;Systems+%26+ML+Enthusiast;GATE+2023+AIR+76;Generative+Retrieval+Researcher" alt="Typing SVG" />
 </div>
 
 <div align="center">
